@@ -9,7 +9,7 @@ Stack: React · Node.js · Python · SQL · Inglés avanzado
 
 ### Sistema de Recibos Digitales
 - Generación de recibos con datos dinámicos y retenciones.
-- [Repositorio](https://github.com/nacholorente/recibos-digitales)
+- [Repositorio](github.com/Nachin1205/RecibosDigitales)
 
 ### TUCUMIND Landing
 - Landing con diseño limpio y animaciones.
